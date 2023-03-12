@@ -3,15 +3,13 @@ UCSD GMBE Girl Scouts Coding Workshop
 
 # Conda environment with environment.yml
 
-FIX THIS! 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/conda_environment/HEAD?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VarshiniSathish/GMBE_GS_Coding_Wrkshp/HEAD?labpath=Lesson.ipynb)
 
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-FIX THIS! 
-http://mybinder.org/v2/gh/binder-examples/conda_environment/HEAD?filepath=index.ipynb
+[[http://mybinder.org/v2/gh/binder-examples/conda_environment/HEAD?filepath=index.ipynb]
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
